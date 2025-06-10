@@ -19,8 +19,7 @@ L’obiettivo era replicare il design di Medium:
 
 ## 📸 Screenshot
 
-> *(Carica immagini nella cartella `screenshots/` se vuoi mostrarle nel README)*
-
-```markdown
-![Desktop Preview](./screenshots/desktop.png)
-![Mobile Preview](./screenshots/mobile.png)
+![Desktop Preview](./assets/imgs/deskhome1.png)
+![Desktop Preview](./assets/imgs/deskhome2.png)
+![Mobile Preview](./assets/imgs/mobilehome1.png)
+![Mobile Preview](./assets/imgs/mobilehome2.png)
